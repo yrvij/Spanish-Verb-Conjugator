@@ -1,6 +1,6 @@
 # Spanish-Verb-Conjugator
 
-Takes in a spanish verb and conjugates it into several tenses. These tenses include:
+Takes in a spanish verb and conjugates it into several tenses. Some tenses include:
   1) presente progressivo
   2) imperfecto progressivo
   3) presente perfecto
