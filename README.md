@@ -11,4 +11,4 @@ Takes in a spanish verb and conjugates it into several tenses. Some tenses inclu
   8) futuro perfecto
   9) imperfecto subjuntivo
   
-Some tenses are not include because of the many irregularities that they have. Still working on how to conjugate the other tenses.
+Some tenses are not included because of the many irregularities that they have. Still working on how to conjugate the other tenses.
